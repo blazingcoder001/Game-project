@@ -1,6 +1,11 @@
 # Game-project
-Disclaimer: The contents used in this project are from different resources available online. This project is done strictly for educational
+Disclaimer: The contents used in this project are from different resources available online. This is a group project and was done strictly for educational
 purposes. If any original creator of the basic resources wants it to be removed from this project, please contact me.
+
+**Credits to:-
+1. Ashwin K.S
+2. Sanand
+3. Riyashree**
 
 The genre of this game is adventure and education. 
 The game is developed by using unity and assets from pokemon games. The concept is unique and thrilling.
